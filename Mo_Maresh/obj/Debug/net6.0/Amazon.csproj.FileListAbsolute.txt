@@ -1,0 +1,15 @@
+E:\Amazon\bin\Debug\net6.0\Amazon.exe
+E:\Amazon\bin\Debug\net6.0\Amazon.deps.json
+E:\Amazon\bin\Debug\net6.0\Amazon.runtimeconfig.json
+E:\Amazon\bin\Debug\net6.0\Amazon.dll
+E:\Amazon\bin\Debug\net6.0\ref\Amazon.dll
+E:\Amazon\bin\Debug\net6.0\Amazon.pdb
+E:\Amazon\obj\Debug\net6.0\Amazon.csproj.AssemblyReference.cache
+E:\Amazon\obj\Debug\net6.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amazon\obj\Debug\net6.0\Amazon.AssemblyInfoInputs.cache
+E:\Amazon\obj\Debug\net6.0\Amazon.AssemblyInfo.cs
+E:\Amazon\obj\Debug\net6.0\Amazon.csproj.CoreCompileInputs.cache
+E:\Amazon\obj\Debug\net6.0\Amazon.dll
+E:\Amazon\obj\Debug\net6.0\ref\Amazon.dll
+E:\Amazon\obj\Debug\net6.0\Amazon.pdb
+E:\Amazon\obj\Debug\net6.0\Amazon.genruntimeconfig.cache
